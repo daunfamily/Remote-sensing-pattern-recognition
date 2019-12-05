@@ -1,2 +1,2 @@
-# hellow-world-
-test
+# pyNCL
+this is a test for pyNCL

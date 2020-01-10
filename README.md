@@ -1,2 +1,2 @@
-# pyNCL
-this is a test for pyNCL
+# 遥感模式识别
+这是用于唐宏老师课程的一些补充材料
